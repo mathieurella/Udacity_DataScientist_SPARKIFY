@@ -3,7 +3,7 @@
 ## Project Motivation
 "Sparkify" is a music streaming company, who gave us data log to predict churned user using machine learning model.
 
-Sparkify offers digital music service through streaming, similar to Spotify and Deezer. Sparkify has two account options: Free and Premium. The free account has advertisements between songs, whereas the premium account has no advertisements, costing a monthly fee. Customers can upgrade, downgrade or cancel the service at any time. 
+similar to Spotify and Deezer. Sparkify has two account options: Free and Premium. The free account has advertisements between songs, whereas the premium account has no advertisements, costing a monthly fee. Customers can upgrade, downgrade or cancel the service at any time. 
 
 We will be working with a small dataset (128MB), containing information about customers and their activity in the platform.
 
@@ -39,4 +39,4 @@ This project is divided in 6 parts:
 `Sparkify.ipynb`: Jupyter notebook containing the analysis of the project
 
 ## Results
-The project summary can be found on my [website] (https://www.labo.mathieurella.fr/?p=516)
+The project summary can be found on my [website](https://www.labo.mathieurella.fr/?p=516)
